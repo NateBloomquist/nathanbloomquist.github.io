@@ -10,7 +10,29 @@
 <atom:link href="https://nathanbloomquist.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 04 Nov 2025 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>Is Harrison Smith one of the top safetys of all time?</title>
+  <dc:creator>Nate Bloomquist</dc:creator>
+  <link>https://nathanbloomquist.github.io/posts/is-harrison-smith-a-top-safety/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Football</category>
+  <category>NFL</category>
+  <category>Penalties</category>
+  <category>Chiefs</category>
+  <guid>https://nathanbloomquist.github.io/posts/is-harrison-smith-a-top-safety/</guid>
+  <pubDate>Thu, 04 Dec 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://nathanbloomquist.github.io/posts/is-harrison-smith-a-top-safety/image.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Do good NFL teams get favored by the Referees?</title>
   <dc:creator>Nate Bloomquist</dc:creator>
@@ -1243,7 +1265,7 @@ font-style: inherit;">percent_format</span>())</span></code></pre></div></div>
   <category>Chiefs</category>
   <guid>https://nathanbloomquist.github.io/posts/do-good-nfl-teams-get-favorable-penalty-calls/</guid>
   <pubDate>Tue, 04 Nov 2025 06:00:00 GMT</pubDate>
-  <media:content url="https://nathanbloomquist.github.io/posts/do-good-nfl-teams-get-favorable-penalty-calls/image.png" medium="image" type="image/png"/>
+  <media:content url="https://nathanbloomquist.github.io/posts/do-good-nfl-teams-get-favorable-penalty-calls/image.png" medium="image" type="image/png" height="103" width="144"/>
 </item>
 </channel>
 </rss>
